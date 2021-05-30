@@ -86,7 +86,17 @@ void mainLoop()
     }
     finalize();
 }
-
+int add(int a,int b)
+{
+	return a+b;
+	//5.28日测试
+	
+}
+int test()
+{
+	return add(1,2);
+	//5.28测试使用
+}
 int main()
 {
     mainLoop();
