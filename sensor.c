@@ -98,6 +98,21 @@ int demo(int i)
 {
 	return i+=i;
 }
+int testcode()
+{
+	
+	
+}
+int testcode1()
+{
+	
+	
+}
+void testcode2()
+{
+	
+	
+}
 int main()
 {
     mainLoop();
