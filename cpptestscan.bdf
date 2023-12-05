@@ -1,0 +1,9 @@
+------- cpptestscan v.10.6.2.20230620B3692 (cpptesttrace) -------
+working_dir=C:\Users\75976\Desktop\gitsensor\sensor
+project_name=sensor
+arg=gcc
+arg=-g
+arg=-I.
+arg=-o
+arg=sensor.exe
+arg=sensor.c
