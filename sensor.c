@@ -113,6 +113,20 @@ void testcode2()
 	
 	
 }
+void testcode3()
+{
+	
+	
+}
+void testcode4()
+{
+	
+	
+}
+void testcode5()
+{
+	
+}
 int main()
 {
     mainLoop();
