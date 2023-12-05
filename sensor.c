@@ -86,7 +86,18 @@ void mainLoop()
     }
     finalize();
 }
-
+int add(int a,int b)
+{
+return a+b;	
+}
+int test()
+{
+return add(1,2);	
+}
+int demo(int i)
+{
+	return i+=i;
+}
 int main()
 {
     mainLoop();
